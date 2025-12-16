@@ -1,14 +1,14 @@
 [
 {
-  "directory": "/home/lois/projects/dvdBouncing-openGL/build",
-  "command": "/usr/sbin/cc  -I/home/lois/projects/dvdBouncing-openGL/external/glad/include -std=gnu11 -o CMakeFiles/main.dir/main.c.o -c /home/lois/projects/dvdBouncing-openGL/main.c",
-  "file": "/home/lois/projects/dvdBouncing-openGL/main.c",
+  "directory": "/home/lois/projects/dvdBouncingSquare-openGL/build",
+  "command": "/usr/sbin/cc  -I/home/lois/projects/dvdBouncingSquare-openGL/external/glad/include -std=gnu11 -o CMakeFiles/main.dir/main.c.o -c /home/lois/projects/dvdBouncingSquare-openGL/main.c",
+  "file": "/home/lois/projects/dvdBouncingSquare-openGL/main.c",
   "output": "CMakeFiles/main.dir/main.c.o"
 },
 {
-  "directory": "/home/lois/projects/dvdBouncing-openGL/build",
-  "command": "/usr/sbin/cc  -I/home/lois/projects/dvdBouncing-openGL/external/glad/include -std=gnu11 -o CMakeFiles/main.dir/external/glad/src/glad.c.o -c /home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c",
-  "file": "/home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c",
+  "directory": "/home/lois/projects/dvdBouncingSquare-openGL/build",
+  "command": "/usr/sbin/cc  -I/home/lois/projects/dvdBouncingSquare-openGL/external/glad/include -std=gnu11 -o CMakeFiles/main.dir/external/glad/src/glad.c.o -c /home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c",
+  "file": "/home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c",
   "output": "CMakeFiles/main.dir/external/glad/src/glad.c.o"
 }
 ]

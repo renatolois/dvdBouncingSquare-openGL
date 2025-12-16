@@ -53,10 +53,10 @@ RM = /usr/sbin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lois/projects/dvdBouncing-openGL
+CMAKE_SOURCE_DIR = /home/lois/projects/dvdBouncingSquare-openGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lois/projects/dvdBouncing-openGL/build
+CMAKE_BINARY_DIR = /home/lois/projects/dvdBouncingSquare-openGL/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -73,32 +73,32 @@ CMakeFiles/main.dir/codegen:
 .PHONY : CMakeFiles/main.dir/codegen
 
 CMakeFiles/main.dir/main.c.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/main.c.o: /home/lois/projects/dvdBouncing-openGL/main.c
+CMakeFiles/main.dir/main.c.o: /home/lois/projects/dvdBouncingSquare-openGL/main.c
 CMakeFiles/main.dir/main.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lois/projects/dvdBouncing-openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.o"
-	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.o -MF CMakeFiles/main.dir/main.c.o.d -o CMakeFiles/main.dir/main.c.o -c /home/lois/projects/dvdBouncing-openGL/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/main.dir/main.c.o"
+	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/main.c.o -MF CMakeFiles/main.dir/main.c.o.d -o CMakeFiles/main.dir/main.c.o -c /home/lois/projects/dvdBouncingSquare-openGL/main.c
 
 CMakeFiles/main.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/main.c.i"
-	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lois/projects/dvdBouncing-openGL/main.c > CMakeFiles/main.dir/main.c.i
+	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lois/projects/dvdBouncingSquare-openGL/main.c > CMakeFiles/main.dir/main.c.i
 
 CMakeFiles/main.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/main.c.s"
-	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lois/projects/dvdBouncing-openGL/main.c -o CMakeFiles/main.dir/main.c.s
+	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lois/projects/dvdBouncingSquare-openGL/main.c -o CMakeFiles/main.dir/main.c.s
 
 CMakeFiles/main.dir/external/glad/src/glad.c.o: CMakeFiles/main.dir/flags.make
-CMakeFiles/main.dir/external/glad/src/glad.c.o: /home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c
+CMakeFiles/main.dir/external/glad/src/glad.c.o: /home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c
 CMakeFiles/main.dir/external/glad/src/glad.c.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lois/projects/dvdBouncing-openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/external/glad/src/glad.c.o"
-	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/external/glad/src/glad.c.o -MF CMakeFiles/main.dir/external/glad/src/glad.c.o.d -o CMakeFiles/main.dir/external/glad/src/glad.c.o -c /home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/main.dir/external/glad/src/glad.c.o"
+	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/external/glad/src/glad.c.o -MF CMakeFiles/main.dir/external/glad/src/glad.c.o.d -o CMakeFiles/main.dir/external/glad/src/glad.c.o -c /home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c
 
 CMakeFiles/main.dir/external/glad/src/glad.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/main.dir/external/glad/src/glad.c.i"
-	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c > CMakeFiles/main.dir/external/glad/src/glad.c.i
+	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c > CMakeFiles/main.dir/external/glad/src/glad.c.i
 
 CMakeFiles/main.dir/external/glad/src/glad.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/main.dir/external/glad/src/glad.c.s"
-	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c -o CMakeFiles/main.dir/external/glad/src/glad.c.s
+	/usr/sbin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c -o CMakeFiles/main.dir/external/glad/src/glad.c.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -114,7 +114,7 @@ main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/compiler_depend.ts
 main: /usr/lib/libglfw.so.3.4
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lois/projects/dvdBouncing-openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,6 +126,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	cd /home/lois/projects/dvdBouncing-openGL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lois/projects/dvdBouncing-openGL /home/lois/projects/dvdBouncing-openGL /home/lois/projects/dvdBouncing-openGL/build /home/lois/projects/dvdBouncing-openGL/build /home/lois/projects/dvdBouncing-openGL/build/CMakeFiles/main.dir/DependInfo.cmake "--color=$(COLOR)" main
+	cd /home/lois/projects/dvdBouncingSquare-openGL/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lois/projects/dvdBouncingSquare-openGL /home/lois/projects/dvdBouncingSquare-openGL /home/lois/projects/dvdBouncingSquare-openGL/build /home/lois/projects/dvdBouncingSquare-openGL/build /home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles/main.dir/DependInfo.cmake "--color=$(COLOR)" main
 .PHONY : CMakeFiles/main.dir/depend
 

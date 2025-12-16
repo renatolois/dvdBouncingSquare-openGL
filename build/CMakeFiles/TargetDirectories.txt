@@ -1,3 +1,3 @@
-/home/lois/projects/dvdBouncing-openGL/build/CMakeFiles/main.dir
-/home/lois/projects/dvdBouncing-openGL/build/CMakeFiles/edit_cache.dir
-/home/lois/projects/dvdBouncing-openGL/build/CMakeFiles/rebuild_cache.dir
+/home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles/main.dir
+/home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles/edit_cache.dir
+/home/lois/projects/dvdBouncingSquare-openGL/build/CMakeFiles/rebuild_cache.dir

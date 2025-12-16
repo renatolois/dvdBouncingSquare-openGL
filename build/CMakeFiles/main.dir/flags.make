@@ -4,7 +4,7 @@
 # compile C with /usr/sbin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/lois/projects/dvdBouncing-openGL/external/glad/include
+C_INCLUDES = -I/home/lois/projects/dvdBouncingSquare-openGL/external/glad/include
 
 C_FLAGS = -std=gnu11
 

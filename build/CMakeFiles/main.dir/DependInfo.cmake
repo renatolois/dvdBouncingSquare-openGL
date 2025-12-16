@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c" "CMakeFiles/main.dir/external/glad/src/glad.c.o" "gcc" "CMakeFiles/main.dir/external/glad/src/glad.c.o.d"
-  "/home/lois/projects/dvdBouncing-openGL/main.c" "CMakeFiles/main.dir/main.c.o" "gcc" "CMakeFiles/main.dir/main.c.o.d"
+  "/home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c" "CMakeFiles/main.dir/external/glad/src/glad.c.o" "gcc" "CMakeFiles/main.dir/external/glad/src/glad.c.o.d"
+  "/home/lois/projects/dvdBouncingSquare-openGL/main.c" "CMakeFiles/main.dir/main.c.o" "gcc" "CMakeFiles/main.dir/main.c.o.d"
   "" "main" "gcc" "CMakeFiles/main.dir/link.d"
   )
 

@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/external/glad/src/glad.c.o: \
- /home/lois/projects/dvdBouncing-openGL/external/glad/src/glad.c \
+ /home/lois/projects/dvdBouncingSquare-openGL/external/glad/src/glad.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
@@ -34,8 +34,8 @@ CMakeFiles/main.dir/external/glad/src/glad.c.o: \
  /usr/include/bits/stdlib-float.h /usr/include/string.h \
  /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /home/lois/projects/dvdBouncing-openGL/external/glad/include/glad/glad.h \
- /home/lois/projects/dvdBouncing-openGL/external/glad/include/KHR/khrplatform.h \
+ /home/lois/projects/dvdBouncingSquare-openGL/external/glad/include/glad/glad.h \
+ /home/lois/projects/dvdBouncingSquare-openGL/external/glad/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/wchar.h \
  /usr/include/bits/stdint-uintn.h /usr/include/bits/stdint-least.h \

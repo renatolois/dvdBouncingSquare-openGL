@@ -1,7 +1,8 @@
 CMakeFiles/main.dir/main.c.o: \
- /home/lois/projects/dvdBouncing-openGL/main.c /usr/include/stdc-predef.h \
- /home/lois/projects/dvdBouncing-openGL/external/glad/include/glad/glad.h \
- /home/lois/projects/dvdBouncing-openGL/external/glad/include/KHR/khrplatform.h \
+ /home/lois/projects/dvdBouncingSquare-openGL/main.c \
+ /usr/include/stdc-predef.h \
+ /home/lois/projects/dvdBouncingSquare-openGL/external/glad/include/glad/glad.h \
+ /home/lois/projects/dvdBouncingSquare-openGL/external/glad/include/KHR/khrplatform.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/features-time64.h \
